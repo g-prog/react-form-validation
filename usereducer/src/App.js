@@ -10,7 +10,8 @@ function App() {
         <FormInput  placeholder="Username" setUsername={setUsername}/>
         <FormInput placeholder="Email" />
         <FormInput placeholder="Full Name"/>
-        <FormInput  placeholder="Username"/>
+        <FormInput  placeholder="Occupation"/>
+        <button>Submit</button>
       </form>
     </div>
   );
